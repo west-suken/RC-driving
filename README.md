@@ -10,7 +10,7 @@
 
 ## Hardware Requirements
 
-- tamiya M-05  
+- tamiya M-05(visit https://www.tamiya.com/english/products/58443m05pro/index.htm)
 - raspberry pi model 3
 - PCA9685 
 - smartdriverduo10
